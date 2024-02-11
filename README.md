@@ -21,6 +21,10 @@ git clone https://github.com/dalvivishal/Task-Management-API-Laravel.git
 
 After cloning, run:
 
+`Run Xampp server and start apache and mysql`
+
+Then Run:
+
 ```bash
 cd task_management
 ```
